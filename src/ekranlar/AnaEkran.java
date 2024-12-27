@@ -8,7 +8,7 @@ public class AnaEkran {
     public void AnaEkran() {
         GirisVeKayit girisVeKayit = new GirisVeKayit();
         while (true) {
-            System.out.println("\nOrman İşletme Depo Yönetim Bilgi Sistemi'ne Hoşgeldiniz! ");
+            System.out.println("\nTomruk Depo Yönetim Bilgi Satış Sistemi'ne Hoşgeldiniz! ");
             System.out.println("\n Giriş yapınız veya üye olunuz!");
 
             girisVeKayit.GirisVeKayit();
